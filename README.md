@@ -9,7 +9,7 @@ I'm Husein, a passionate computer science student based in Sweden, originally fr
 </p>
 
 <!-- You can replace this GIF with another by changing the URL, e.g., from https://giphy.com -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" width="300" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamV0d3h0amxyOWcza2ltMXA0N3A2aGJzYWtqMTBwMXJscmQ2YXV2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" />
 
 ## 🚀 About Me
 - 🔭 I’m currently working on building my programming portfolio and learning new skills.
